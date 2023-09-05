@@ -4,7 +4,7 @@
 
 const nextConfig = {
   reactStrictMode: true,
-  image: {
+  images: {
     unoptimized: true
   }
 };
